@@ -1,4 +1,4 @@
-![Generative AI]('Screenshot 2023-08-03 at 11.40.53 PM.png')
+
 
 # Must-Read Research Papers for Mastering Generative AI
 
