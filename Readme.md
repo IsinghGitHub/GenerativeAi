@@ -1,3 +1,5 @@
+![Generative AI](Screenshot 2023-08-03 at 11.40.53 PM.png)
+
 # Must-Read Research Papers for Mastering Generative AI
 
 If you're looking to deepen your understanding of Generative AI, these 25 research papers are essential reads to explore the latest advancements and insights in the field. From language models to fine-tuning techniques, these papers cover a wide range of topics.
