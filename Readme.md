@@ -2,9 +2,9 @@
 
 If you're looking to deepen your understanding of Generative AI, these 25 research papers are essential reads to explore the latest advancements and insights in the field. From language models to fine-tuning techniques, these papers cover a wide range of topics.
 
-1. [Measuring Massive Multitask Language Understanding](url)
-2. [Proximal Policy Optimization Algorithms](url)
-3. [PAL: Program-aided Language Models](url)
+1. [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300)
+2. [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+3. [PAL: Program-aided Language Models](https://arxiv.org/abs/2211.10435)
 4. [Explore to Generalize in Zero-Shot RL](url)
 5. [On the Effectiveness of Parameter-Efficient Fine-Tuning](url)
 6. [Learning to summarize from human feedback](url)
